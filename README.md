@@ -1,4 +1,5 @@
-![Image](https://github.com/user-attachments/assets/802c660a-0ef1-424d-87a7-876946ab65f2)
+
+![Image](https://github.com/user-attachments/assets/bb48d29e-800e-430b-ae66-4dad1b2b826e)
 working in progress
 <!--
 **Menschenfleisch/Menschenfleisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
